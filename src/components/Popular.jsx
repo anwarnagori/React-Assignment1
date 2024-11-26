@@ -35,11 +35,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Burger Arena</span>
@@ -71,11 +67,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Top Sticks</span>
@@ -107,11 +99,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Cake World</span>
@@ -143,11 +131,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Fastfood Dine</span>
@@ -167,11 +151,7 @@ const Popular = () => {
                     </div>
                     <div class="col-sm-6 col-md-4 col-xl mb-5 h-100">
                       <div>
-                        <img
-                          class="img-fluid rounded-4"
-                          src={Thai}
-                          alt="..."
-                        />
+                        <img class="img-fluid rounded-4" src={Thai} alt="..." />
                         <div class="card-body ps-0">
                           <h5 class="fw-bold text-1000 text-truncate mb-1">
                             Thai Soup
@@ -179,11 +159,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Foody Man</span>
@@ -219,11 +195,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Burger Arena</span>
@@ -255,11 +227,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Top Sticks</span>
@@ -291,11 +259,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Cake World</span>
@@ -327,11 +291,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Fastfood Dine</span>
@@ -351,11 +311,7 @@ const Popular = () => {
                     </div>
                     <div class="col-sm-6 col-md-4 col-xl mb-5 h-100">
                       <div>
-                        <img
-                          class="img-fluid rounded-4"
-                          src={Thai}
-                          alt="..."
-                        />
+                        <img class="img-fluid rounded-4" src={Thai} alt="..." />
                         <div class="card-body ps-0">
                           <h5 class="fw-bold text-1000 text-truncate mb-1">
                             Thai Soup
@@ -363,11 +319,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Foody Man</span>
@@ -403,11 +355,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Burger Arena</span>
@@ -439,11 +387,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Top Sticks</span>
@@ -475,11 +419,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Cake World</span>
@@ -511,11 +451,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Fastfood Dine</span>
@@ -547,11 +483,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Foody Man</span>
@@ -587,11 +519,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Burger Arena</span>
@@ -623,11 +551,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Top Sticks</span>
@@ -659,11 +583,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Cake World</span>
@@ -695,11 +615,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Fastfood Dine</span>
@@ -731,11 +647,7 @@ const Popular = () => {
                           <div>
                             <div>
                               <a>
-                                <img
-                                  class="logo-size"
-                                  src={Location}
-                                  alt=""
-                                />
+                                <img class="logo-size" src={Location} alt="" />
                               </a>
                             </div>
                             <span class="text-warning">Foody Man</span>
@@ -782,6 +694,5 @@ const Popular = () => {
     </section>
   );
 };
-
 
 export default Popular;
