@@ -1,7 +1,7 @@
-import Location from "../assets/Images/location.png";
-import Order from "../assets/Images/order.png";
-import Pay from "../assets/Images/pay.png";
-import Meals from "../assets/Images/meals.png";
+import Location from "../../assets/Images/location.png";
+import Order from "../../assets/Images/order.png";
+import Pay from "../../assets/Images/pay.png";
+import Meals from "../../assets/Images/meals.png";
 
 const Section2 = () => {
   return (
